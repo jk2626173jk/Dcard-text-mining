@@ -8,4 +8,4 @@
 
 >linearsvc  :machine learning
 
-評斷熱度標準:留言超過千則
+評斷熱度標準  :留言超過千則
